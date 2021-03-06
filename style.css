@@ -3356,6 +3356,27 @@ margin-top: 0px;
 	transition: .3s ease;
 	scroll-behavior: smooth;
 }
+.buys1 {
+	display: inline-block;
+	padding: 10px 20px;
+	color: teal;
+	background-color: transparent;
+	border: 2px solid crimson;
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	transition: .3s ease;
+	transition-property: background-color, color;
+	margin-left: 50px;
+	margin-top: 80px;
+}
+.buys1:hover {
+	color: darkred;
+	background-color: darkgreen;
+	border-radius: 100px;
+	transition: .3s ease;
+	scroll-behavior: smooth;
+}
 /* Footer n1*/
 #about1 .col-right p {
 	margin-bottom: 20px;
@@ -3371,11 +3392,40 @@ margin-top: 0px;
 .col-right .uj h1 {
 	margin-top: -100px;
 }
+#about1 .col-right1 p {
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+#about1 .col-right1 h2 {
+	font-size: 1.8rem;
+	font-weight: 500;
+	letter-spacing: .2rem;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+.col-right1 .uj h1 {
+	margin-top: -50px;
+	margin-bottom: 30px;
+}
 #about1 .col-left .about-img {
 	position: relative;
 	margin-left: 30px;
 	width: 600px;
 	height: 800px;
+	margin-top: 60px;
+}
+#about1 .col-left1 .about-img {
+	position: relative;
+	margin-left: 30px;
+	width: 800px;
+	height: 500px;
+	margin-top: 60px;
+}
+#about1 .col-left2 .about-img {
+	position: relative;
+	margin-left: 30px;
+	width: 500px;
+	height: 500px;
 	margin-top: 60px;
 }
 #fgf .f img {
