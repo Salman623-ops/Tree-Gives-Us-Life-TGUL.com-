@@ -1347,9 +1347,9 @@ p {
 	text-transform: uppercase;
 }
 .card9 h1 b {
-	color: green;
+	color: darkgreen;
 	font-size: 1rem;
-	margin-left: 10px;
+	margin-left: 0px;
 }
 .card9 h3 {
 	color: darkblue;
