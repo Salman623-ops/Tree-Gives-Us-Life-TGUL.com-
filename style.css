@@ -494,6 +494,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card h5 b {
 	color: black;
 	font-size: 1.5rem;
@@ -562,6 +568,12 @@ p {
 .card1 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card1 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -698,6 +710,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card2 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card2 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -791,6 +809,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card3 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card3 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -873,6 +897,12 @@ p {
 .card4 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card4 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -968,6 +998,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card5 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card5 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -1050,6 +1086,12 @@ p {
 .card6 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card6 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -1138,6 +1180,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card7 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card7 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -1222,6 +1270,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card8 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card8 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -1297,6 +1351,12 @@ p {
 	font-size: 1rem;
 	margin-left: 10px;
 }
+.card9 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card9 h1 b del {
 	color: red;
 	font-size: 1rem;
@@ -1356,6 +1416,12 @@ p {
 .card10 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card10 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -1431,6 +1497,12 @@ p {
 	font-size: 1rem;
 	margin-left: 10px;
 }
+.card11 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card11 h1 b del {
 	color: red;
 	font-size: 1rem;
@@ -1490,6 +1562,12 @@ p {
 .card12 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card12 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -1604,6 +1682,12 @@ p {
 	font-size: 1.3rem;
 	text-transform: uppercase;
 }
+.card13 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card13 h1 b {
 	color: green;
 	font-size: 1.2rem;
@@ -1716,6 +1800,12 @@ p {
 	font-size: 1.3rem;
 	text-transform: uppercase;
 }
+.card14 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card14 h1 b {
 	color: green;
 	font-size: 1.2rem;
@@ -1786,6 +1876,12 @@ p {
 .card15 h3 b {
 	color: darkblue;
 	font-size: 1.3rem;
+	text-transform: uppercase;
+}
+.card15 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
 	text-transform: uppercase;
 }
 .card15 h1 b {
@@ -1860,6 +1956,12 @@ p {
 	font-size: 1.3rem;
 	text-transform: uppercase;
 }
+.card16 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card16 h1 b {
 	color: green;
 	font-size: 1.2rem;
@@ -1932,6 +2034,12 @@ p {
 	font-size: 1.3rem;
 	text-transform: uppercase;
 }
+.card17 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card17 h1 b {
 	color: green;
 	font-size: 1.2rem;
@@ -2002,6 +2110,12 @@ p {
 .card18 h3 b {
 	color: darkblue;
 	font-size: 1.3rem;
+	text-transform: uppercase;
+}
+.card18 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
 	text-transform: uppercase;
 }
 .card18 h1 b {
@@ -2081,6 +2195,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card19 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card19 h5 b {
 	color: black;
 	font-size: 1.5rem;
@@ -2149,6 +2269,12 @@ p {
 .card20 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card20 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -2324,6 +2450,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card21 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card21 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -2417,6 +2549,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card22 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card22 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -2499,6 +2637,12 @@ p {
 .card23 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card23 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -2587,6 +2731,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card24 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card24 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -2669,6 +2819,12 @@ p {
 .card25 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card25 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
@@ -2757,6 +2913,12 @@ p {
 	margin-left: 10px;
 	text-transform: uppercase;
 }
+.card26 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
 .card26 h1 b {
 	color: green;
 	font-size: 1rem;
@@ -2838,6 +3000,12 @@ p {
 .card27 h3 b {
 	color: darkblue;
 	font-size: 1.5rem;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.card27 h3 {
+	color: darkblue;
+	font-size: 1.3rem;
 	margin-left: 10px;
 	text-transform: uppercase;
 }
